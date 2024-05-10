@@ -50,7 +50,7 @@ except Exception as e:
     print(f'Error: {e}')
 ```
 
-<H3> Output:</H3>
+## Output:
 ![image](https://github.com/Rakshithadevi/Ex-8--AAI/assets/94165326/740b7d1a-531c-4e84-932e-c9e473a63694)
 
 
